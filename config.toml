@@ -1,6 +1,6 @@
 baseURL = "https://roninzc.github.io"
 languageCode = "zh-hans"
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh-hans"
 title = "RoninZc"
 theme = "hermit"
 # enableGitInfo = true
